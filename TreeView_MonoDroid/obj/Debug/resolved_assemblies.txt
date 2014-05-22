@@ -1,0 +1,2 @@
+/Volumes/Wen/TreeView_MonoDroid/TreeView_MonoDroid/bin/Debug/TreeView_MonoDroid.dll
+/Volumes/Wen/TreeView_MonoDroid/packages/Newtonsoft.Json.6.0.3/lib/portable-net40+sl4+wp7+win8/Newtonsoft.Json.dll
